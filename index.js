@@ -5,3 +5,7 @@ function divideFeature() {
     let numberTwo = 5;
     return number/numberTwo;
 }
+
+function multiplyFeature(x, y){
+    return  x*y;
+}
